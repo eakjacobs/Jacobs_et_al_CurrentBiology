@@ -1,3 +1,3 @@
-# Jacobs_et_al_2020
+# Jacobs_et_al_CurrentBiology
 
 This repository will contain the analysis code for the paper.
