@@ -12,19 +12,14 @@ Many scripts have been used in several figures: when this is the case, the scrip
 
 * behaviourPerPower_imaging\
 This script computes the probability of a certain response (Miss, Incorrect Choice, etc) as a function of low frequency power for the widefield imaging datasets. This type of plot occurs for the first time in Figure 2, and the script is therefore in that folder, but the same script was re-used for the analyses in Figures 3 and 4, and Supplementary Figures 2 and 6.
-
 * examplePowerDifferenceMaps\
 This script plots the example power difference maps in Figures 3-7, and Supplementary Figures 5 and 7. It is inside the folder for Figure 3.
-
 * compute_powerDifferences\
 This script computes the power difference between two behavioural conditions (for example Choice Miss, Correct Incorrect) per ROI. This analysis occurs for the first time in Figure 3, but is also applied in Figures 4-7, and Supplementary Figures 6-7.
-
 * plot_powerDifferences\
 This script plots the results from compute_powerDifferences.
-
 * powerDifference_statistics\
 Applies nested mixed effects models to the results from compute_powerDifferences.
-
 * plot_powerDifference_comparisons\
 This script plots the average Correct - Miss vs Incorrect - Miss, and Choice - Miss vs Correct - Incorrect power differences per ROI. This analysis has been repeated in Figure 7.
 
