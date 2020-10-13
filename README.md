@@ -1,6 +1,6 @@
 # Jacobs_et_al_CurrentBiology
 
-This repository contains the analysis code for the Current Biology paper.
+This repository contains the analysis code for the Current Biology paper "Cortical state fluctuations during sensory decision making".
 
 #### How the code is organised
 
