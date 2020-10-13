@@ -6,7 +6,7 @@ This repository contains the analysis code for the Current Biology paper.
 
 The code is organised according to which figure the analyses are shown in, with the core code inside folders named after the figures, and any code that is required to generate the data to be used in the core code inside the "helpers" folder.
 
-* Within the helpers folder is a subfolder called "experimentLists", which contains the structures with the details of the experiments that were used in the analyses. The subfolder "ROIPixelSelections" contains the pixel coordinates per dataset for the ROIs in the widefield imaging datasets that are called throughout the analyses.
+* Within the helpers folder is a subfolder called "experimentLists", which contains the structures with the details of the experiments that were used in the analyses. There is also a zipped subfolder called "ROIPixelSelections", which contains the pixel coordinates per dataset for the ROIs in the widefield imaging datasets that are called throughout the analyses.
 
 Many scripts have been used in several figures: when this is the case, the script is in the folder for the figure where the analysis occurs for the first time. (This is why there are no Fig4 and Fig6 folders, as the code for the analysis shown in those figures is the same as in Figures 2 and 3; the only differences are the behavioural comparisons that are specified.) The list below explicitly explains which scrips this applies to.
 
