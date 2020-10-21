@@ -29,3 +29,5 @@ Please note that this code has been adapted from scripts that were structured sl
 #### Requirements
 All the code is written in [Matlab](https://www.mathworks.com/products/matlab.html), using versions 2016b and 2018b. \
 Some scripts call functions from other repositories on GitHub, mostly from the [Cortex-Lab](https://github.com/cortex-lab); but this is specified for each script.
+
+The data can be downloaded from: https://figshare.com/articles/dataset/Data_from_Jacobs_et_al_Current_Biology_Cortical_state_fluctuations_during_sensory_decision_making_/13084805
